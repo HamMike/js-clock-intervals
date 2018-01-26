@@ -1,4 +1,21 @@
-#clock {
+.clock_hands {
+	position: absolute;
+}
+
+#second {
+	/*transform: rotate(0deg);*/
+}
+
+#minute {
+	/*transform: rotate(0deg);*/
+}
+
+#hour {
+	/*transform: rotate(0deg);*/
+}
+
+
+/*#clock {
 }
 
 #clock img {
@@ -11,4 +28,5 @@
 }
 
 #second {
-}
+}*/
+
